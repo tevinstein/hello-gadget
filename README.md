@@ -1,5 +1,7 @@
 # HelloGadget
 
+Hello Gadget is an app that is used to compare 2 gadgets from different vendors
+
 #### This is a Hacktiv 8 group project with:
 - Node.js v6+
 - Express
@@ -15,6 +17,7 @@
 ### Install express
 
 ```
+npm init
 npm install express-generator -g
 express -e
 npm install
@@ -106,3 +109,11 @@ npm install live-server -g
 ```
 live-server
 ```
+
+## Screenshots
+
+[![Hello Gadget Home](http://i.imgur.com/EHtz4BS.png "Hello Gadget Home")](http://i.imgur.com/EHtz4BS.png "Hello Gadget Home")
+
+[![Hello Gadget Single](http://i.imgur.com/WVlFBpM.png "Hello Gadget Single")](http://i.imgur.com/WVlFBpM.png "Hello Gadget Single")
+
+[![Hello Gadget Comparison](http://i.imgur.com/VCEQdAv.png "Hello Gadget Comparison")](http://i.imgur.com/VCEQdAv.png "Hello Gadget Comparison")
