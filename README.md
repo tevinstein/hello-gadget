@@ -1,6 +1,6 @@
 # HelloGadget
 
-Hello Gadget is an app that is used to compare 2 gadgets from different vendors
+Hello Gadget is a simple app that lets you manage (CRUD operations) smartphones' details and compare their specifications.
 
 #### This is a Hacktiv 8 group project with:
 - Node.js v6+
